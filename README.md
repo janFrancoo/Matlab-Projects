@@ -1,5 +1,4 @@
 # Matlab-Projects
-My projects in Matlab
 
 Broken Candies: http://janfranco.com/MATLAB/Image-Processing-Broken-Candy-Project
 
